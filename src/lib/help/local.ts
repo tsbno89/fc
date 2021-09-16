@@ -113,7 +113,6 @@ export const LOCAL_INVOKE_HELP_INFO = [
     header: 'Examples with Yaml',
     content: [
       '$ s {bold local invoke} [{bold --debug-port} {underline 9000}] [{bold --config} {underline vscode}]',
-      '$ s exec -- {bold local invoke} [{bold --debug-port} {underline 9000}] [{bold --config} {underline vscode}]',
     ],
   },
 ];
@@ -185,7 +184,6 @@ export const LOCAL_START_HELP_INFO = [
     header: 'Examples with Yaml',
     content: [
       '$ s {bold local start} [{bold --debug-port} {underline 9000}] [{bold --config} {underline vscode}]',
-      '$ s exec -- {bold local start} [{bold --debug-port} {underline 9000}] [{bold --config} {underline vscode}]',
     ],
   },
 ];

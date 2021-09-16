@@ -31,8 +31,7 @@ Examples with Yaml
 
   $ s build
   $ s <ProjectName> build
-  $ s build --use-docker 
-  $ s exec -- build --use-docker 
+  $ s build --use-docker
 
 Examples with CLI
 

@@ -51,6 +51,7 @@
     - [预留操作：Provision](./Usage/provision.md)
     - [按量资源操作：OnDemand](./Usage/onDemand.md)
     - [层的操作：Layer](./Usage/layer.md)
+    - [迁移Funcraft：Fun2s](./Others/fun-fc.md)
 - 权限相关
     - [Yaml字段相关配置权限](./Others/authority/yaml.md)
     - [命令使用相关权限](./Others/authority/command.md)

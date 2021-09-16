@@ -53,8 +53,7 @@ OnDemand命令为我们提供了一些子命令：
 
     Examples with Yaml
 
-      $ s provision list         
-      $ s exec -- provision list 
+      $ s provision list
 
     Examples with CLI
 
@@ -87,7 +86,7 @@ OnDemand命令为我们提供了一些子命令：
 
       $ s provision put --target 1 --qualifier alias                
       $ s provision put --config ./provision.json --qualifier alias 
-      $ s exec -- provision put --target 1 --qualifier alias        
+      $ s provision put --target 1 --qualifier alias        
 
     Examples with CLI
 
@@ -120,8 +119,7 @@ OnDemand命令为我们提供了一些子命令：
 
     Examples with Yaml
 
-      $ s provision get --qualifier alias         
-      $ s exec -- provision get --qualifier alias 
+      $ s provision get --qualifier alias
 
     Examples with CLI
 

@@ -6,7 +6,7 @@ export const BUILD_HELP_INFO = [
   {
     header: 'Usage',
     content: [
-      { example: '$ s exec -- build <option>' },
+      { example: '$ s build <option>' },
     ],
   },
   {
@@ -43,6 +43,9 @@ export const BUILD_HELP_INFO = [
     header: 'Examples with Yaml',
     content: [
       {
+        example: '$ s build',
+      },
+      {
         example: '$ s build --use-docker',
       },
       {
@@ -50,9 +53,6 @@ export const BUILD_HELP_INFO = [
       },
       {
         example: '$ s build --use-docker ',
-      },
-      {
-        example: '$ s exec -- build',
       },
     ],
   },
