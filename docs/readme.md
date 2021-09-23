@@ -37,7 +37,7 @@
     - [Yaml规范](./Others/yaml.md)
 - 指令使用方法
     - [部署操作：Deploy](./Usage/deploy.md)
-    - [构建操作：Build](./Usage/build.md)
+    - [构建操作：Build](./Usage/build/build.md)
     - [查看操作：Info](./Usage/info.md)
     - [远程调用操作：Invoke](./Usage/invoke.md)
     - [本地调用操作：Local](./Usage/local.md)

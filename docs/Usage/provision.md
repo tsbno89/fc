@@ -162,7 +162,7 @@ s remove provision --qualifier xxx --function-name xxx
 ## 高级使用
 
 ```
-s fc provision put --qualifier alias --config ./provision.json --target 1
+s provision put --qualifier alias --config ./provision.json --target 1
 ```
 
 - 自动伸缩配置比较复杂，所以新增 --config 指定可以指定一个文件作为配置，文件内容示例如下【[参数参考文档](https://help.aliyun.com/document_detail/191172.html?#h2-url-4)】：

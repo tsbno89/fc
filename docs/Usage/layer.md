@@ -185,4 +185,5 @@ s layer versions --layer-name name
 ````
 s remove layer --layer-name name
 ````
-- 如果指定--version，仅删除指定层的版本；如果不指定则删除指定层的所有版本
+- 如果指定--version，仅删除指定层的版本
+- 如果不指定则删除指定层的所有版本
